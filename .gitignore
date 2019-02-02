@@ -13,5 +13,8 @@
 
 .idea/
 
+# bins
+gcgt
+
 # tests
 tests/tests_S1_template1.go

@@ -5,3 +5,5 @@ package {{ .GOPACKAGE }}
 func ( {{ .SUBJECT }} ) String() string {
 	return "implement me in template"
 }
+
+// some comments
